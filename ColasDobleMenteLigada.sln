@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasDobleMenteLigada", "ColasDobleMenteLigada\ColasDobleMenteLigada.csproj", "{C3EC0FD7-43F2-4F1F-BFBC-868AFF92CC81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasLigadas", "ColasLigadas\ColasLigadas.csproj", "{68F624BA-0A21-4637-9FEE-0F98E25D128D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C3EC0FD7-43F2-4F1F-BFBC-868AFF92CC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C3EC0FD7-43F2-4F1F-BFBC-868AFF92CC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C3EC0FD7-43F2-4F1F-BFBC-868AFF92CC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C3EC0FD7-43F2-4F1F-BFBC-868AFF92CC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F624BA-0A21-4637-9FEE-0F98E25D128D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F624BA-0A21-4637-9FEE-0F98E25D128D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F624BA-0A21-4637-9FEE-0F98E25D128D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F624BA-0A21-4637-9FEE-0F98E25D128D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
